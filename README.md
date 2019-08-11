@@ -45,3 +45,9 @@
 Chrome 插件虽然绝大部分经过谷歌严格审查，但存在曝光过有恶意代码的情况。
 本人承诺以上所有 Chrome 插件的链接以及仓库中的 crx 均来自[谷歌官方商店](https://chrome.google.com/webstore/category/extensions)，如插件内存在恶意代码均与本人无关，如造成损失请自行承担。
 如不放心可以亲自审计开源代码，在 `Chrome/Default/Extension` 目录下可以找到 JS 源代码文件。
+
+* * *
+## 欢迎关注
+![微信公众号：面向人生编程](http://static.zkqiang.cn/images/20190802162214.jpg-slim)
+
+编程思维不应只存留在代码之中，更应伴随于整个人生旅途，这个公众号不只聊技术，还会聊产品/互联网/职场等广泛话题，所以也欢迎非程序员关注。
