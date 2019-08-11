@@ -30,3 +30,18 @@
 ## [SwitchyOmega](https://chrome.google.com/webstore/detail/proxy-switchyomega/padekgcemlokbadohgkifijomclgjgif)
 ![SwitchyOmega](http://static.zkqiang.cn/images/20190729094908.png-slim)
 快速切换 HTTP / Socks 代理的插件，还能根据匹配地址自动切换。另一个技巧是配合 Charles、Burp Suite 这类抓包工具，这些工具使用时需要设置本地代理，可以提前设置好用时就切换。
+
+## [Wappalyzer](https://chrome.google.com/webstore/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg)
+![Wappalyzer](http://static.zkqiang.cn/images/20190811175102.png-slim)
+可以解析当前前端页面所使用的框架及服务支持，这样可以针对 Web 框架使用特殊的爬取方式。
+
+## [Web Scraper](https://chrome.google.com/webstore/detail/web-scraper/jnhgnonknehpejjnehehllkliplmbmhn)
+![Web Scraper](http://static.zkqiang.cn/images/20190811175103.png-slim)
+又一个神器，如果只是简单的爬取数据，不需要部署和更复杂的操作，可以使用这款插件，内置在 Chrome 控制台，直接操作 Chrome 浏览器进行爬取，不需要写一行代码，支持多种导出格式。
+
+* * *
+
+## 免责声明
+Chrome 插件虽然绝大部分经过谷歌严格审查，但存在曝光过有恶意代码的情况。
+本人承诺以上所有 Chrome 插件的链接以及仓库中的 crx 均来自[谷歌官方商店](https://chrome.google.com/webstore/category/extensions)，如插件内存在恶意代码均与本人无关，如造成损失请自行承担。
+如不放心可以亲自审计开源代码，在 `Chrome/Default/Extension` 目录下可以找到 JS 源代码文件。
