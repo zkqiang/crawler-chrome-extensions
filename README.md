@@ -75,9 +75,3 @@ Chrome 插件虽然绝大部分经过谷歌严格审查，但存在曝光过有�
 如不放心可以亲自审计插件代码，在 `Chrome/Default/Extension` 目录下可以找到 JS 代码及相关文件。
 
 * * *
-
-## 欢迎关注
-
-欢迎喜欢编程的朋友，关注我的微信公众号：**面向人生编程**
-
-<p align="center"> <img src="http://static.zkqiang.cn/images/20190818175845.jpg-slim" width="250"> </p>
